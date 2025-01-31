@@ -1,0 +1,1 @@
+This repository demonstrates a subtle error in a MATLAB function. The function itself is simple, but the error's origin could be challenging to find in a complex application. The bug and solution files illustrate the problem and how to improve error handling and debugging strategies.
